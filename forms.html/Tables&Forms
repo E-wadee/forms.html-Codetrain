@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+<form>
+	<h1>Registration Form</h1>
+		<br>
+		<input type="text" name="first name"><br>
+		<lable> last name</lable>
+		<br>
+		<input type="text" name="email"><br>
+		<lable> email</lable>
+		<br>
+
+		<lable> Gender</lable>lable><br>
+		<input type="radio" name="gender"
+		value="male" checked="">male
+		<input type="radio" name="gender"
+		value="female">female
+		<input type="radio" name="gender"
+		value="other">other
+
+		<input placeholder="last name"
+		type='text' name="first name"><br>
+		<lable>password</lable>lable>
+		<br>
+		<input type="password" name="password"><br>
+		<lable>email</lable>><br>
+		<input type="email" name="email"/> <br>
+</form>
+</center>
+	</body>
+</html>
